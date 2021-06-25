@@ -1,1 +1,7 @@
 ## Huddle agency landing page
+
+The idea of this project came from frontendmentor.io, where you have a bunch of frontend project ideas.
+
+Here i´ll be opdating the looks of the page to fit the original design.
+
+Feel free to check the result! https://victle2003.github.io/Huddle-landing-page/
