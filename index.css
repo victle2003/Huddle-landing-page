@@ -151,6 +151,7 @@ footer #linksContainer {
     body {
         background-image: url("images/bg-mobile.svg");
         background-size: 100%;
+        background-position: center top;
         grid-template-rows: auto auto auto;
         grid-gap: var(--grid-gap);
     }
